@@ -45,7 +45,7 @@ store:
   events:
     usage: true
     mod: true
- animals:
+ animals: 
     usage: true
     mod: true
     weight: true
