@@ -45,11 +45,11 @@ store:
     usage: true
     mod: true
   animals:
-    usage: true
-    mod: true
-    weight: true
-    quantity: true
-    karma: true
+    usage: false
+    mod: false
+    weight: false
+    quantity: false
+    karma: false
 
 commands:
   # Whether or not the command list will display the command's shortcut disclaimer.
