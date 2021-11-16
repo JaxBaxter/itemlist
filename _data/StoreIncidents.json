@@ -282,8 +282,8 @@
 	},
 	{
 		"abr": "pawn",
-		"price": 1500,
-		"karmatype": "Good"
+		"price": 1,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "levelskill",
@@ -292,12 +292,12 @@
 	},
 	{
 		"abr": "trait",
-		"price": 3500,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 5500,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -330,7 +330,7 @@
 		"price": 600,
 		"karmatype": "Neutral"
 	},
-		{
+	{
 		"abr": "reviveall",
 		"price": 22664,
 		"karmatype": "Good"
@@ -357,7 +357,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -401,6 +401,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "cleartraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "use",
 		"price": 1,
 		"karmatype": "Neutral"
@@ -436,5 +441,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 87
+	"total": 88
 }
