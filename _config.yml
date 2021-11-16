@@ -1,11 +1,10 @@
 # Metadata
-title: "Jax Baxters's Purchase List"
+title: "JaxBaxter's Purchase List"
 favicon: assets/img/favicon.png
-description: Jax Baxters's Purchase List for Rimworld
+description: A custom version of Toolkit's item list to support all the latest features of Utils.
 
 baseurl: '/itemlist' # the subpath of your site, e.g. /blog
-url: ''
-
+url: '' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ''
 github_username: 'JaxBaxter'
 
@@ -45,7 +44,7 @@ store:
   events:
     usage: true
     mod: true
- animals: 
+  animals:
     usage: true
     mod: true
     weight: true
