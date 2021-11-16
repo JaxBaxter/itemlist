@@ -1,4 +1,4 @@
-{
+﻿{
   "items": [
     {
       "abr": "0symbol",
@@ -604,7 +604,7 @@
       "abr": "archon",
       "category": "Animal",
       "defname": "OG_DarkEldar_Archon",
-      "price": 2917
+      "price": -10
     },
     {
       "abr": "archonhelmet",
@@ -880,7 +880,7 @@
       "abr": "aspectwarrior",
       "category": "Animal",
       "defname": "Eldar_Aspect_Warrior",
-      "price": 2917
+      "price": -10
     },
     {
       "abr": "assaultrifle",
@@ -1174,7 +1174,7 @@
       "abr": "beastman",
       "category": "Animal",
       "defname": "OG_Abhuman_Beastman",
-      "price": 2917
+      "price": -10
     },
     {
       "abr": "beastmasterhelmet",
@@ -2128,7 +2128,7 @@
       "abr": "chemicalprocessingunit",
       "category": "Animal",
       "defname": "AndroidChicken",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "chesstable",
@@ -2728,7 +2728,7 @@
       "abr": "cybork",
       "category": "Animal",
       "defname": "OG_Cyborg_Ork",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "cypresstree",
@@ -3622,7 +3622,7 @@
       "abr": "ethereal",
       "category": "Animal",
       "defname": "Tau_Ethereal",
-      "price": 2917
+      "price": -10
     },
     {
       "abr": "eviscerator(i)",
@@ -3724,7 +3724,7 @@
       "abr": "farseer",
       "category": "Animal",
       "defname": "Eldar_Farseer",
-      "price": 2917
+      "price": -10
     },
     {
       "abr": "farseerrunearmour",
@@ -3832,7 +3832,7 @@
       "abr": "firewarrior",
       "category": "Animal",
       "defname": "Tau_Firewarrior",
-      "price": 2917
+      "price": -10
     },
     {
       "abr": "firefoam",
@@ -4492,7 +4492,7 @@
       "abr": "grot",
       "category": "Animal",
       "defname": "Ork_Grot",
-      "price": 2917
+      "price": -10
     },
     {
       "abr": "grot",
@@ -4534,7 +4534,7 @@
       "abr": "guardian",
       "category": "Animal",
       "defname": "Eldar_Warrior",
-      "price": 2917
+      "price": -10
     },
     {
       "abr": "guardianspear(bolter)",
@@ -4852,13 +4852,13 @@
       "abr": "hekatrixwych",
       "category": "Animal",
       "defname": "OG_DarkEldar_Wych_Hekatrix",
-      "price": 2917
+      "price": -10
     },
     {
       "abr": "heliarchhellion",
       "category": "Animal",
       "defname": "OG_DarkEldar_Hellion_Heliarch",
-      "price": 2917
+      "price": -10
     },
     {
       "abr": "helixiengascrematorium",
@@ -4924,7 +4924,7 @@
       "abr": "hellion",
       "category": "Animal",
       "defname": "OG_DarkEldar_Hellion",
-      "price": 2917
+      "price": -10
     },
     {
       "abr": "hellionhelmet",
@@ -5374,7 +5374,7 @@
       "abr": "incubi",
       "category": "Animal",
       "defname": "OG_DarkEldar_Incubi",
-      "price": 2917
+      "price": -10
     },
     {
       "abr": "incubihelmet",
@@ -5386,7 +5386,7 @@
       "abr": "incubilord",
       "category": "Animal",
       "defname": "OG_DarkEldar_Incubi_Lord",
-      "price": 2917
+      "price": -10
     },
     {
       "abr": "incubilordhelmet",
@@ -5584,19 +5584,19 @@
       "abr": "k-9cyberneticunit",
       "category": "Animal",
       "defname": "AndroidDog",
-      "price": 14167
+      "price": -10
     },
     {
       "abr": "kabalite",
       "category": "Animal",
       "defname": "OG_DarkEldar_Kabalite",
-      "price": 2917
+      "price": -10
     },
     {
       "abr": "kabalite",
       "category": "Animal",
       "defname": "OG_DarkEldar_Kabalite_Trueborn",
-      "price": 2917
+      "price": -10
     },
     {
       "abr": "kabalitearmour",
@@ -6964,7 +6964,7 @@
       "abr": "m.u.f.funit",
       "category": "Animal",
       "defname": "AndroidMuff",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "m7mechanisedinfantry",
@@ -7348,7 +7348,7 @@
       "abr": "microscyther",
       "category": "Animal",
       "defname": "MicroScyther",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "microwave",
@@ -7828,31 +7828,31 @@
       "abr": "ork(boy)",
       "category": "Animal",
       "defname": "Ork_Boy",
-      "price": 2917
+      "price": -10
     },
     {
       "abr": "ork(eavyboy)",
       "category": "Animal",
       "defname": "Ork_Eavy_Boy",
-      "price": 2917
+      "price": -10
     },
     {
       "abr": "ork(eavynob)",
       "category": "Animal",
       "defname": "Ork_Eavy_Nob",
-      "price": 2917
+      "price": -10
     },
     {
       "abr": "ork(nob)",
       "category": "Animal",
       "defname": "Ork_Nob",
-      "price": 2917
+      "price": -10
     },
     {
       "abr": "ork(warboss)",
       "category": "Animal",
       "defname": "Ork_Warboss",
-      "price": 2917
+      "price": -10
     },
     {
       "abr": "orkcraftingsupplies",
@@ -8176,7 +8176,7 @@
       "abr": "phytominingunit",
       "category": "Animal",
       "defname": "RoboticSheep",
-      "price": 2667
+      "price": -10
     },
     {
       "abr": "piano",
@@ -9496,7 +9496,7 @@
       "abr": "ripperswarm",
       "category": "Animal",
       "defname": "Tyranid_RipperSwarm",
-      "price": 250
+      "price": -10
     },
     {
       "abr": "roboticcomponent",
@@ -12238,13 +12238,13 @@
       "abr": "warlock",
       "category": "Animal",
       "defname": "OG_DarkEldar_Haemonculi",
-      "price": 2917
+      "price": -10
     },
     {
       "abr": "warlock",
       "category": "Animal",
       "defname": "Eldar_Warlock",
-      "price": 2917
+      "price": -10
     },
     {
       "abr": "warlockhelmet",
@@ -12598,13 +12598,13 @@
       "abr": "wraithguard",
       "category": "Animal",
       "defname": "OG_Alien_Wraithguard",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "wych",
       "category": "Animal",
       "defname": "OG_DarkEldar_Wych",
-      "price": 2917
+      "price": -10
     },
     {
       "abr": "advancedarchotecharm",

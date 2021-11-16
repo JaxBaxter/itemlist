@@ -1,4 +1,4 @@
-{
+﻿{
   "Beer": {
     "CustomName": null,
     "HasQuantityLimit": false,
@@ -32999,7 +32999,7 @@
     "Mod": "Expanded Prosthetics and Organ Engineering",
     "KarmaType": null
   },
-  "denture": {
+  "airPipe": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -33016,7 +33016,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Dubs Central Heating",
     "KarmaType": null
   },
   "PegLeg": {
@@ -34859,7 +34859,7 @@
     "Mod": "Dubs Central Heating",
     "KarmaType": null
   },
-  "airPipe": {
+  "denture": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -34876,7 +34876,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Central Heating",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "KarmaType": null
   },
   "AirConOutdoorUnit": {
