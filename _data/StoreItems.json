@@ -7555,12 +7555,6 @@
 		"defname": "OGAM_Gun_Mitralock"
 	},
 	{
-		"abr": "mkiv"catachan"lascarbine(i)",
-		"price": 967,
-		"category": "Ranged weapons",
-		"defname": "OGI_Gun_LasGun_Catachan"
-	},
-	{
 		"abr": "mobileturretchargingstation",
 		"price": 2108,
 		"category": "Production",
